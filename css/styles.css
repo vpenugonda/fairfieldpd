@@ -1,0 +1,94 @@
+.home-page {
+    background: linear-gradient(white, #D3D8E8);
+}
+.home-page {
+    min-height: 650px;
+    background: url("../images/bg-fair.png") fixed 100% 100%;
+}
+.top-login, .signup-form {
+    float: left;
+    width: 100%
+}
+.form-control, .btn {
+    border-radius: 0
+}
+.top-login {
+    background: #34495E;
+    padding: 10px 0;
+    color: #FFF;
+    border-bottom: 2px solid #FF6633;
+}
+.top-login h3 {
+    margin-top: 5px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+.top-login a {
+    color: #34495E;
+    text-decoration: none;
+}
+.top-login .form-group {
+    margin-top: 5px;
+    margin-right: 0px;
+    /* margin-left: 0; */
+    margin-bottom: 0;
+}
+.top-login .form-group.pass {
+    margin-right: -26px;
+}
+.signup-form .form-group {
+    /* margin-left:0; */
+    /* margin-right:0; */
+}
+.signup-form .form-horizontal {
+    padding: 15px;
+    margin-top: 25%;
+    color: rgba(255, 255, 255, 0.77);
+    background: rgb(52, 73, 94);
+    float: left;
+    width: 100%;
+    box-shadow: 0px 0px 6px rgb(255, 102, 51);
+}
+.signup-form1 {
+    padding: 15px;
+    margin-top: 3%;
+    color: rgba(255, 255, 255, 0.77);
+    background: rgb(52, 73, 94);
+    float: left;
+    /* width: 100%; */
+    box-shadow: 0px 2px 3px rgb(52, 73, 94);
+}
+.signup-form1 .form-control {
+    margin-bottom: 15px;
+}
+.navbar-default {
+    background: #34495E;
+    border: 0;
+    border-radius: 0;
+    border-bottom: 3px solid #FF6633;
+}
+.navbar-default a, .front-form a {
+    color: #FFF !important;
+    font-weight: 500;
+}
+.inner-image {
+    text-align: center
+}
+.signup-form1 img {
+    margin-bottom: 15px;
+    margin-top: 150px
+}
+.table-list {
+    float: left;
+    width: 100%;
+    margin-top: 15px;
+}
+ul.dropdown-menu {
+    background-color: #34495E;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover, .dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+    background-color: #FF6633;
+}
+.padding-top{padding-top: 5px;}
